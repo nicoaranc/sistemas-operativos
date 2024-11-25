@@ -1,0 +1,1 @@
+cmd_/home/pss/Escritorio/Tareas/Tarea7/T7/disco.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T arch/x86/module.lds -o /home/pss/Escritorio/Tareas/Tarea7/T7/disco.ko /home/pss/Escritorio/Tareas/Tarea7/T7/disco.o /home/pss/Escritorio/Tareas/Tarea7/T7/disco.mod.o;  true

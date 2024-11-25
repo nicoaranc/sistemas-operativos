@@ -1,0 +1,1 @@
+cmd_/home/pss/Escritorio/Tareas/Tarea7/T7/disco.mod := printf '%s\n'   kmutex.o disco-impl.o | awk '!x[$$0]++ { print("/home/pss/Escritorio/Tareas/Tarea7/T7/"$$0) }' > /home/pss/Escritorio/Tareas/Tarea7/T7/disco.mod
