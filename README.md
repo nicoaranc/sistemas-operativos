@@ -1,6 +1,6 @@
 # Operating Systems
 
-This repository has 7 assignments of the subject of Operating Systems. In this subject we learn about the basics concepts and usages of the C language, Assembly and logic circuits.
+This repository has 7 assignments of the subject of Operating Systems. In this subject we learn about the concept of paralel processes, using threads, mutex, and other tools.
 
 - <a href=T1> Assignment 1 - Threads</a>
 - <a href=T2> Assignment 2 - Mutex</a>
